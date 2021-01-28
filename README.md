@@ -1,32 +1,4 @@
 # Muse_Stroke_Study
-
-%%%patient data%%%
-
-
-%%%NOTES%%%
-%%%%here we will specify our participants, conditions, and electrodes
-%%%parts 001-005 completed baseline and auditory oddball with rigid muse
-%%%part 006 completed baseline and auditory oddball with soft muse
-%%%parts 007,008completed baseline and visual oddball with soft muse
-%%%008 kept falling asleep during tasks%%%
-%%%009 was asleep during task, did not have EKG connected%%%
-%%%011 was asleep during task, did not have EKG connected, had to hold front electrodes against forehead%%%
-%%%012 was asleep during task, did not have EKG connected, had to hold front electrodes against forehead%%%
-%%%013 was sitting up during the entire task%%%
-%%%014 kept eyes closed during most of the task, needed to have vitals taken during the task as well (temperature and HR)%%%
-%%%016 nurse came in during task and told him he would be discharged%%%
-%%%017 nurse came in to talk to husband%%%
-%%%018 had TV on and moved a bit during the eyes open. Was no stroke but I
-%%%think had a bleed
-%%%019 AF7 had bad connection (moved part way through) and TP (left side),
-%%%may have fallen off at the end. Fell asleep during eyes closed. Excluded from analysis
-%%%20-22 went smoothly
-%%%23-24 loud testing/rehab/SLP in the next bed
-%%%25 had eyes open and closed throughout both, when she was reminded to
-%%%close eyes she closed them really hard
-%%%26 had phone call near end of recording. Also didn't record properly
-
-
 %%%%%%
 
 parts = {'001';'002';'003';'004';'005';'006';'007';'008';'009';'010';'011';'012';'013';'014';'015';'016';'017';'018';'020';'021';'022';'023';'024';'025';'027';};
